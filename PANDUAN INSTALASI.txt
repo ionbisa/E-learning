@@ -1,0 +1,21 @@
+
+
+SISTEM E-LEARNING SMP NEGERI 2 BONGAS INDRAMAYU
+===========---//INSTALASI SOURCE CODE\\---==============
+	
+	Nama : TARYONO
+	NIM  : 16.3.0039
+--------------------------------------------------------							
+-Ekstrak source code					
+-Jika menggunakan xampp simpan folder elearning		
+ ke dalam folder htdocs					
+-Buat database baru dengan nama database		
+-import file database.sql yang ada di folder db 	
+ ke dalam database yang dibuat tadi			
+-Buka browser lalu jalankan dengan menuliskan 		
+ localhost/elearning					
+				
+Akun Admin	Akun Siswa		Akun Guru
+user: admin	user: Nomor NIS		user: Nomor NIP
+pass: admin	pass: (	)		pass: ( )
+

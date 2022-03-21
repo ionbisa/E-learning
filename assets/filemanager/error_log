@@ -1,0 +1,19 @@
+[02-Jun-2017 10:40:02 Asia/Jakarta] PHP Warning:  mkdir(): Permission denied in /home/u3995586/public_html/assets/filemanager/include/utils.php on line 332
+[02-Jun-2017 10:40:08 Asia/Jakarta] PHP Warning:  mkdir(): Permission denied in /home/u3995586/public_html/assets/filemanager/include/utils.php on line 332
+[02-Jun-2017 10:40:57 Asia/Jakarta] PHP Warning:  mkdir(): Permission denied in /home/u3995586/public_html/assets/filemanager/include/utils.php on line 332
+[02-Jun-2017 10:41:01 Asia/Jakarta] PHP Warning:  mkdir(): Permission denied in /home/u3995586/public_html/assets/filemanager/include/utils.php on line 332
+[02-Jun-2017 10:41:05 Asia/Jakarta] PHP Warning:  mkdir(): Permission denied in /home/u3995586/public_html/assets/filemanager/include/utils.php on line 332
+[02-Jun-2017 03:41:57 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/u3995586/public_html/assets/filemanager/config/config.php on line 80
+[02-Jun-2017 03:42:23 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/u3995586/public_html/assets/filemanager/config/config.php on line 80
+[02-Jun-2017 03:43:04 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/u3995586/public_html/assets/filemanager/config/config.php on line 80
+[02-Jun-2017 03:45:16 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/u3995586/public_html/assets/filemanager/config/config.php on line 80
+[02-Jun-2017 10:46:50 Asia/Jakarta] PHP Warning:  scandir(../media/source/): failed to open dir: No such file or directory in /home/u3995586/public_html/assets/filemanager/dialog.php on line 473
+[02-Jun-2017 10:46:50 Asia/Jakarta] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/u3995586/public_html/assets/filemanager/dialog.php on line 473
+[02-Jun-2017 10:46:50 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/assets/filemanager/dialog.php on line 482
+[02-Jun-2017 10:46:50 Asia/Jakarta] PHP Notice:  Undefined variable: files_prevent_duplicate in /home/u3995586/public_html/assets/filemanager/dialog.php on line 961
+[02-Jun-2017 10:46:50 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/assets/filemanager/dialog.php on line 961
+[02-Jun-2017 10:47:51 Asia/Jakarta] PHP Warning:  scandir(./../media/source/): failed to open dir: No such file or directory in /home/u3995586/public_html/assets/filemanager/dialog.php on line 473
+[02-Jun-2017 10:47:51 Asia/Jakarta] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/u3995586/public_html/assets/filemanager/dialog.php on line 473
+[02-Jun-2017 10:47:51 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/assets/filemanager/dialog.php on line 482
+[02-Jun-2017 10:47:51 Asia/Jakarta] PHP Notice:  Undefined variable: files_prevent_duplicate in /home/u3995586/public_html/assets/filemanager/dialog.php on line 961
+[02-Jun-2017 10:47:51 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/assets/filemanager/dialog.php on line 961

@@ -1,0 +1,1 @@
+fraction numerator open parentheses 4 x plus 3 close parentheses over denominator open parentheses x plus 2 close parentheses squared end fraction

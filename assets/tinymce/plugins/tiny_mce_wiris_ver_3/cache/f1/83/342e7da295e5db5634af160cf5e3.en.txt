@@ -1,0 +1,1 @@
+limit as x rightwards arrow infinity of fraction numerator 3 x minus 5 over denominator 2 x squared plus 4 x plus 5 end fraction

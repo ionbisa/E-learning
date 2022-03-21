@@ -1,0 +1,1 @@
+limit as x rightwards arrow 0 of fraction numerator sin space 6 x over denominator sin space 2 x end fraction space a d a l a h..

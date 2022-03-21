@@ -1,0 +1,1 @@
+limit as x rightwards arrow 3 of fraction numerator 9 minus x squared over denominator 4 minus square root of x squared plus 7 end root end fraction space a d a l a h

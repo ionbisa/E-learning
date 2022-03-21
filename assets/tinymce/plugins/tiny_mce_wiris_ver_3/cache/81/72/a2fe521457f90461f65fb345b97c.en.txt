@@ -1,0 +1,1 @@
+10 over open parentheses x plus 5 close parentheses squared

@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses 3 over 4 square root of 6 close parentheses"},"status":"ok"}

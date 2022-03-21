@@ -1,0 +1,6 @@
+[01-Jun-2017 23:27:11 UTC] PHP Warning:  include(../../library/config.php): failed to open stream: No such file or directory in /home/u3995586/public_html/assets/filemanager/config/config.php on line 4
+[01-Jun-2017 23:27:11 UTC] PHP Warning:  include(): Failed opening '../../library/config.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u3995586/public_html/assets/filemanager/config/config.php on line 4
+[01-Jun-2017 23:27:11 UTC] PHP Notice:  Undefined variable: folder_website in /home/u3995586/public_html/assets/filemanager/config/config.php on line 70
+[01-Jun-2017 23:42:45 UTC] PHP Warning:  include(../../library/config.php): failed to open stream: No such file or directory in /home/u3995586/public_html/assets/filemanager/config/config.php on line 4
+[01-Jun-2017 23:42:45 UTC] PHP Warning:  include(): Failed opening '../../library/config.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u3995586/public_html/assets/filemanager/config/config.php on line 4
+[01-Jun-2017 23:42:45 UTC] PHP Notice:  Undefined variable: folder_website in /home/u3995586/public_html/assets/filemanager/config/config.php on line 70

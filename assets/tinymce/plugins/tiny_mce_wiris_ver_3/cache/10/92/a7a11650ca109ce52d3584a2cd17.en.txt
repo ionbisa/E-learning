@@ -1,0 +1,1 @@
+limit as x rightwards arrow 2 of fraction numerator 4 x minus 3 over denominator square root of x squared plus 4 x plus 13 end root end fraction

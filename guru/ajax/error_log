@@ -1,0 +1,165 @@
+[01-Jun-2017 05:38:12 Asia/Jakarta] PHP Notice:  Undefined variable: passsword in /home/u3995586/public_html/admin/ajax/ajax_user.php on line 47
+[03-Jun-2017 16:11:46 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[03-Jun-2017 16:11:46 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[03-Jun-2017 16:11:58 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[03-Jun-2017 16:11:58 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[04-Jun-2017 13:15:25 Asia/Jakarta] PHP Notice:  Undefined variable: passsword in /home/u3995586/public_html/admin/ajax/ajax_user.php on line 47
+[04-Jun-2017 13:17:10 Asia/Jakarta] PHP Notice:  Undefined variable: passsword in /home/u3995586/public_html/admin/ajax/ajax_user.php on line 47
+[04-Jun-2017 13:17:58 Asia/Jakarta] PHP Notice:  Undefined variable: passsword in /home/u3995586/public_html/admin/ajax/ajax_user.php on line 47
+[04-Jun-2017 13:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: passsword in /home/u3995586/public_html/admin/ajax/ajax_user.php on line 47
+[04-Jun-2017 13:18:59 Asia/Jakarta] PHP Notice:  Undefined variable: passsword in /home/u3995586/public_html/admin/ajax/ajax_user.php on line 47
+[04-Jun-2017 13:19:13 Asia/Jakarta] PHP Notice:  Undefined variable: passsword in /home/u3995586/public_html/admin/ajax/ajax_user.php on line 47
+[06-Jun-2017 07:05:49 Asia/Jakarta] PHP Notice:  Undefined variable: passsword in /home/u3995586/public_html/admin/ajax/ajax_user.php on line 47
+[06-Jun-2017 07:07:21 Asia/Jakarta] PHP Notice:  Undefined variable: passsword in /home/u3995586/public_html/admin/ajax/ajax_user.php on line 47
+[06-Jun-2017 07:15:19 Asia/Jakarta] PHP Notice:  Undefined variable: passsword in /home/u3995586/public_html/admin/ajax/ajax_user.php on line 47
+[08-Jun-2017 07:03:24 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[08-Jun-2017 07:03:24 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[08-Jun-2017 07:03:36 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[08-Jun-2017 07:03:36 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[08-Jun-2017 07:03:50 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[08-Jun-2017 07:03:50 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[08-Jun-2017 07:04:02 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[08-Jun-2017 07:04:02 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[08-Jun-2017 07:04:14 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[08-Jun-2017 07:04:14 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[08-Jun-2017 07:04:24 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[08-Jun-2017 07:04:24 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[08-Jun-2017 07:04:29 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[08-Jun-2017 07:04:29 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[08-Jun-2017 09:39:35 Asia/Jakarta] PHP Notice:  Undefined variable: passsword in /home/u3995586/public_html/admin/ajax/ajax_user.php on line 47
+[08-Jun-2017 09:39:59 Asia/Jakarta] PHP Notice:  Undefined variable: passsword in /home/u3995586/public_html/admin/ajax/ajax_user.php on line 47
+[08-Jun-2017 09:42:19 Asia/Jakarta] PHP Notice:  Undefined variable: passsword in /home/u3995586/public_html/admin/ajax/ajax_user.php on line 47
+[08-Jun-2017 09:42:41 Asia/Jakarta] PHP Notice:  Undefined variable: passsword in /home/u3995586/public_html/admin/ajax/ajax_user.php on line 47
+[08-Jun-2017 09:43:23 Asia/Jakarta] PHP Notice:  Undefined variable: passsword in /home/u3995586/public_html/admin/ajax/ajax_user.php on line 47
+[08-Jun-2017 09:43:48 Asia/Jakarta] PHP Notice:  Undefined variable: passsword in /home/u3995586/public_html/admin/ajax/ajax_user.php on line 47
+[08-Jun-2017 10:30:45 Asia/Jakarta] PHP Notice:  Undefined variable: passsword in /home/u3995586/public_html/admin/ajax/ajax_user.php on line 47
+[09-Jun-2017 05:59:26 Asia/Jakarta] PHP Notice:  Undefined variable: passsword in /home/u3995586/public_html/admin/ajax/ajax_user.php on line 47
+[09-Jun-2017 06:24:38 Asia/Jakarta] PHP Notice:  Undefined variable: passsword in /home/u3995586/public_html/admin/ajax/ajax_user.php on line 47
+[10-Jun-2017 07:51:26 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 07:51:26 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 07:51:45 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 07:51:45 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 07:51:59 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 07:51:59 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 07:52:09 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 07:52:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 07:52:16 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 07:52:16 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 07:52:27 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 07:52:27 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 07:52:37 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 07:52:37 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 07:52:51 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 07:52:51 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 07:59:30 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 07:59:30 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 07:59:37 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 07:59:37 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 07:59:54 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 07:59:54 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:00:13 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:00:13 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:00:30 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:00:30 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:00:37 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:00:37 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:00:51 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:00:51 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:01:04 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:01:04 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:05:20 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:05:20 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:05:46 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:05:46 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:06:02 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:06:02 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:06:45 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:06:45 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:11:11 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:11:11 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:11:26 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:11:26 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:11:38 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:11:38 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:11:59 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:11:59 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:12:08 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:12:08 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:12:19 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:12:19 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:12:51 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:12:51 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:12:51 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:12:51 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:12:57 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:12:57 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:13:06 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:13:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:13:12 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:13:12 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:13:32 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:13:32 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:13:44 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:13:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:14:41 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:14:41 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:14:51 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:14:51 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:15:06 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:15:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:44:31 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:44:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:45:02 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:45:02 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:49:16 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:49:16 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:55:17 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:55:17 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[10-Jun-2017 08:56:15 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[10-Jun-2017 08:56:15 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[15-Jun-2017 11:03:17 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[15-Jun-2017 11:03:17 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[15-Jun-2017 11:03:26 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[15-Jun-2017 11:03:26 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[15-Jun-2017 11:03:32 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[15-Jun-2017 11:03:32 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[15-Jun-2017 11:03:34 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[15-Jun-2017 11:03:34 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[15-Jun-2017 11:03:45 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[15-Jun-2017 11:03:45 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[15-Jun-2017 11:03:57 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[15-Jun-2017 11:03:57 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[15-Jun-2017 11:04:08 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[15-Jun-2017 11:04:08 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[15-Jun-2017 11:04:41 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[15-Jun-2017 11:04:41 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[15-Jun-2017 11:11:40 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[15-Jun-2017 11:11:40 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[15-Jun-2017 11:11:53 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[15-Jun-2017 11:11:53 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[15-Jun-2017 11:12:02 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[15-Jun-2017 11:12:02 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[15-Jun-2017 11:12:35 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[15-Jun-2017 11:12:35 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[20-Jun-2017 00:44:12 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[20-Jun-2017 00:44:13 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[20-Jun-2017 00:44:40 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[20-Jun-2017 00:44:40 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[20-Jun-2017 00:44:47 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[20-Jun-2017 00:44:47 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[20-Jun-2017 00:45:46 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[20-Jun-2017 00:45:46 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[20-Jun-2017 00:45:52 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[20-Jun-2017 00:45:52 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[20-Jun-2017 00:45:58 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[20-Jun-2017 00:45:58 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[20-Jun-2017 00:46:31 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[20-Jun-2017 00:46:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[20-Jun-2017 00:46:38 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[20-Jun-2017 00:46:38 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[20-Jun-2017 00:46:44 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[20-Jun-2017 00:46:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[20-Jun-2017 00:46:53 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[20-Jun-2017 00:46:53 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47
+[20-Jun-2017 00:47:01 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 46
+[20-Jun-2017 00:47:01 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u3995586/public_html/admin/ajax/ajax_jdwlkelas.php on line 47

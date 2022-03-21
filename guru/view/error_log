@@ -1,0 +1,300 @@
+[05-Jun-2017 09:33:12 UTC] PHP Notice:  Undefined index: namalengkap in /home/u3995586/public_html/admin/view/view_profil.php on line 16
+[05-Jun-2017 09:33:12 UTC] PHP Notice:  Undefined index: username in /home/u3995586/public_html/admin/view/view_profil.php on line 17
+[05-Jun-2017 09:33:12 UTC] PHP Notice:  Undefined index: leveluser in /home/u3995586/public_html/admin/view/view_profil.php on line 18
+[06-Jun-2017 02:18:52 UTC] PHP Notice:  Undefined index: namalengkap in /home/u3995586/public_html/admin/view/view_profil.php on line 16
+[06-Jun-2017 02:18:52 UTC] PHP Notice:  Undefined index: username in /home/u3995586/public_html/admin/view/view_profil.php on line 17
+[06-Jun-2017 02:18:52 UTC] PHP Notice:  Undefined index: leveluser in /home/u3995586/public_html/admin/view/view_profil.php on line 18
+[10-Jun-2017 04:28:36 UTC] PHP Notice:  Undefined index: namalengkap in /home/u3995586/public_html/admin/view/view_profil.php on line 16
+[10-Jun-2017 04:28:36 UTC] PHP Notice:  Undefined index: username in /home/u3995586/public_html/admin/view/view_profil.php on line 17
+[10-Jun-2017 04:28:36 UTC] PHP Notice:  Undefined index: leveluser in /home/u3995586/public_html/admin/view/view_profil.php on line 18
+[10-Jun-2017 04:28:38 UTC] PHP Notice:  Undefined index: namalengkap in /home/u3995586/public_html/admin/view/view_profil.php on line 16
+[10-Jun-2017 04:28:38 UTC] PHP Notice:  Undefined index: username in /home/u3995586/public_html/admin/view/view_profil.php on line 17
+[10-Jun-2017 04:28:38 UTC] PHP Notice:  Undefined index: leveluser in /home/u3995586/public_html/admin/view/view_profil.php on line 18
+[13-Jun-2017 10:41:43 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:41:43 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 10:41:57 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:41:57 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 10:42:14 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:42:14 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 10:43:33 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:43:33 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 03:43:35 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 03:43:35 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_profil.php on line 12
+[13-Jun-2017 10:45:36 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:45:36 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 03:45:41 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 03:45:41 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_profil.php on line 12
+[13-Jun-2017 10:45:45 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:45:45 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 10:45:51 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:45:51 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 10:45:55 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:45:55 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 10:46:56 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:46:56 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 10:46:57 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:46:57 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 10:48:02 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:48:02 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 10:48:03 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:48:03 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 10:48:04 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:48:04 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 10:48:10 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:48:10 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 10:48:32 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:48:32 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 10:48:34 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:48:34 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 10:48:35 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:48:35 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 10:49:48 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:49:48 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 10:49:49 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:49:49 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 10:49:57 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:49:57 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 10:49:57 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:49:57 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 10:49:58 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:49:58 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 10:49:59 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:49:59 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 10:49:59 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:49:59 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 10:49:59 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:49:59 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 10:50:10 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:50:10 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 10:50:13 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:50:13 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 10:50:16 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:50:16 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 10:50:16 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:50:16 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 10:50:22 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:50:22 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 10:50:22 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 10:50:22 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 11:36:25 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:36:25 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 11:36:30 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:36:30 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 11:36:31 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:36:31 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 11:36:31 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:36:31 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 11:37:07 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:37:07 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 11:37:10 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:37:10 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 11:37:12 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:37:12 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 11:37:13 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:37:13 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 11:37:15 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:37:15 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 11:37:16 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:37:16 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 11:37:17 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:37:17 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 11:37:17 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:37:17 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 11:53:19 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:53:19 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 04:53:21 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:53:21 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_user.php on line 14
+[13-Jun-2017 04:53:22 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:53:22 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_user.php on line 14
+[13-Jun-2017 04:53:22 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:53:22 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_user.php on line 14
+[13-Jun-2017 04:53:30 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:53:30 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_user.php on line 14
+[13-Jun-2017 04:53:31 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:53:31 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_user.php on line 14
+[13-Jun-2017 04:53:31 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:53:31 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_user.php on line 14
+[13-Jun-2017 11:53:32 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:53:32 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa.php on line 16
+[13-Jun-2017 11:53:32 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:53:32 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa.php on line 16
+[13-Jun-2017 11:53:33 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:53:33 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa.php on line 16
+[13-Jun-2017 11:53:33 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:53:33 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa.php on line 16
+[13-Jun-2017 04:53:34 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:53:34 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_user.php on line 14
+[13-Jun-2017 04:53:35 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:53:35 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_kelas.php on line 12
+[13-Jun-2017 11:53:36 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:53:36 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_jdwlkelas.php on line 15
+[13-Jun-2017 11:53:36 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:53:36 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_jdwlkelas.php on line 15
+[13-Jun-2017 11:53:37 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:53:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_jdwlkelas.php on line 15
+[13-Jun-2017 04:53:38 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:53:38 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_profil.php on line 12
+[13-Jun-2017 11:53:42 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:53:42 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 11:53:42 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:53:42 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 11:53:43 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:53:43 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 11:53:43 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:53:43 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 11:53:45 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:53:45 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa.php on line 16
+[13-Jun-2017 11:53:45 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:53:45 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa.php on line 16
+[13-Jun-2017 11:53:45 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:53:45 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa.php on line 16
+[13-Jun-2017 11:53:46 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:53:46 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa.php on line 16
+[13-Jun-2017 04:53:49 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:53:49 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_kelas.php on line 12
+[13-Jun-2017 04:53:50 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:53:50 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_kelas.php on line 12
+[13-Jun-2017 04:53:50 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:53:50 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_kelas.php on line 12
+[13-Jun-2017 04:53:52 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:53:52 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_kelas.php on line 12
+[13-Jun-2017 04:53:52 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:53:52 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_kelas.php on line 12
+[13-Jun-2017 04:53:53 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:53:53 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_user.php on line 14
+[13-Jun-2017 04:53:53 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:53:53 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_user.php on line 14
+[13-Jun-2017 04:53:54 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:53:54 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_user.php on line 14
+[13-Jun-2017 04:54:00 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:54:00 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_user.php on line 14
+[13-Jun-2017 04:54:01 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:54:01 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_user.php on line 14
+[13-Jun-2017 04:54:01 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:54:01 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_user.php on line 14
+[13-Jun-2017 04:54:03 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:54:03 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_user.php on line 14
+[13-Jun-2017 11:54:10 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:54:10 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 11:54:11 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:54:11 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 11:54:11 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:54:11 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 04:54:12 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:54:12 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_user.php on line 14
+[13-Jun-2017 04:54:13 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:54:13 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_user.php on line 14
+[13-Jun-2017 04:54:13 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:54:13 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_user.php on line 14
+[13-Jun-2017 11:54:56 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:54:56 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 11:54:56 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:54:56 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 11:54:57 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:54:57 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 11:54:57 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:54:57 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 11:54:58 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:54:58 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 11:54:58 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:54:58 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 11:54:58 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:54:58 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 11:55:04 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:55:04 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 11:55:05 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:55:05 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 11:55:05 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:55:05 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 04:55:08 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:55:08 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_profil.php on line 12
+[13-Jun-2017 04:55:09 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:55:09 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_profil.php on line 12
+[13-Jun-2017 04:55:10 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 04:55:10 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_profil.php on line 12
+[13-Jun-2017 11:55:17 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:55:17 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 11:55:17 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:55:17 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 11:55:18 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:55:18 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 11:55:18 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:55:18 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 11:55:18 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:55:18 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 11:58:32 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:58:32 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 11:58:32 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:58:32 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 11:58:33 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:58:33 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 11:58:33 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:58:33 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa_operator.php on line 13
+[13-Jun-2017 11:58:34 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:58:34 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 11:58:34 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:58:34 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 11:58:34 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:58:34 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 11:58:35 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 11:58:35 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_operator.php on line 12
+[13-Jun-2017 05:01:20 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 05:01:20 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_user.php on line 14
+[13-Jun-2017 12:01:25 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:01:25 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa.php on line 16
+[13-Jun-2017 12:01:26 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:01:26 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa.php on line 16
+[13-Jun-2017 12:01:27 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:01:27 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 12:01:31 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:01:31 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 12:01:33 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:01:33 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 05:18:46 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 05:18:46 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_kelas.php on line 12
+[13-Jun-2017 12:18:55 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:18:55 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 12:18:56 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:18:56 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 12:18:57 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:18:57 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 12:18:57 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:18:57 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 12:18:58 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:18:58 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 12:33:23 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:33:23 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_teacher.php on line 12
+[13-Jun-2017 12:33:36 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:33:36 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa.php on line 16
+[13-Jun-2017 12:33:36 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:33:36 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa.php on line 16
+[13-Jun-2017 12:33:36 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:33:36 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa.php on line 16
+[13-Jun-2017 12:33:37 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:33:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 12:33:37 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:33:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 12:33:38 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:33:38 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 12:33:38 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:33:38 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_siswa.php on line 16
+[13-Jun-2017 12:33:39 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:33:39 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas.php on line 18
+[13-Jun-2017 05:33:39 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 05:33:39 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_kelas.php on line 12
+[13-Jun-2017 05:33:39 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 05:33:39 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_kelas.php on line 12
+[13-Jun-2017 05:33:40 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 05:33:40 UTC] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_kelas.php on line 12
+[13-Jun-2017 12:33:40 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:33:40 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_jdwlkelas.php on line 15
+[13-Jun-2017 12:33:40 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:33:40 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_jdwlkelas.php on line 15
+[13-Jun-2017 12:33:41 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:33:41 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_jdwlkelas.php on line 15
+[13-Jun-2017 12:33:41 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:33:41 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_jdwlkelas.php on line 15
+[13-Jun-2017 12:33:43 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:33:43 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_jdwlkelas.php on line 15
+[13-Jun-2017 12:33:49 Asia/Jakarta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/u3995586/public_html/library/function_view.php on line 1
+[13-Jun-2017 12:33:49 Asia/Jakarta] PHP Fatal error:  Call to undefined function create_title() in /home/u3995586/public_html/admin/view/view_tugas_teacher.php on line 12

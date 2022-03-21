@@ -1,0 +1,1 @@
+limit as x rightwards arrow 3 of fraction numerator x squared plus x minus 6 over denominator x plus 3 end fraction space equals..
